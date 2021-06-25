@@ -1,8 +1,11 @@
 h3 {
-   color: brown;
+   color:darkmagenta;
 }
 
 img {
+   
+   height:auto;
+   border-radius: 8px;
 
 }
 
